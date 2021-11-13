@@ -1,0 +1,80 @@
+// $body-bg: hsl(225, 100%, 94%);
+
+// Import Bootstrap and its default variables
+@import "~bootstrap/scss/bootstrap.scss";
+
+@font-face {
+  font-family: "RedHat";
+  src: url("../fonts/RedHatDisplay-VariableFont_wght.ttf") format("truetype");
+}
+
+* {
+  font-family: "RedHat";
+}
+
+.div-size {
+  min-height: 600px;
+  width: auto;
+}
+
+.centered {
+  margin: 0;
+  padding: 30px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%);
+}
+
+.custom-card {
+  max-width: 450px;
+  min-width: 300px;
+  height: auto;
+  border-radius: 15px;
+  color: hsl(223, 47%, 23%);
+  box-shadow: 1px;
+}
+
+.overflow {
+  overflow: hidden;
+  border: none;
+}
+
+.btn {
+  border-radius: 10px;
+}
+.btn-custom {
+  padding: 15px;
+  background-color: hsl(245, 75%, 52%);
+  color: #fff;
+}
+.btn-custom:hover {
+  background-color: hsl(245, 84%, 69%);
+  color: #fff;
+}
+
+.btn-cancel {
+  color: hsl(224, 23%, 55%);
+}
+
+.btn-cancel:hover {
+  color: hsl(223, 47%, 23%);
+}
+
+a:hover {
+  color: hsl(245, 84%, 69%);
+  text-decoration: none;
+}
+
+a {
+  color: hsl(245, 75%, 52%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
