@@ -1,4 +1,4 @@
-// $body-bg: hsl(225, 100%, 94%);
+$body-bg: hsl(225, 100%, 94%);
 
 // Import Bootstrap and its default variables
 @import "~bootstrap/scss/bootstrap.scss";
@@ -78,3 +78,11 @@ a {
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+
+.bg-custom{
+  background-color: hsl(225, 100%, 98%);
+  border-radius: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+

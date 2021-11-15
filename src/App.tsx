@@ -30,7 +30,8 @@ function App() {
           >
             Frontend Mentor
           </a>
-          . Coded by <a href="https://www.frontendmentor.io/profile/KceSecK">Kceseck</a>.
+          . Coded by{" "}
+          <a href="https://www.frontendmentor.io/profile/KceSecK">Kceseck</a>.
         </div>
       </div>
     </div>

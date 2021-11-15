@@ -13,7 +13,7 @@ function Card() {
           audiobooks, and podcasts on any device <br />
           anywhere you like!
         </p>
-        <div className="row p-3">
+        <div className="row p-3 bg-custom">
           <div className="col-4">
             <img src={musicIco} alt="" />
           </div>
