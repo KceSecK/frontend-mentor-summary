@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/frontend-mentor-summary/static/css/main.f2a5dae1.chunk.css",
-    "main.js": "/frontend-mentor-summary/static/js/main.e169ed30.chunk.js",
-    "main.js.map": "/frontend-mentor-summary/static/js/main.e169ed30.chunk.js.map",
+    "main.css": "/frontend-mentor-summary/static/css/main.f2424083.chunk.css",
+    "main.js": "/frontend-mentor-summary/static/js/main.eb7b3dc6.chunk.js",
+    "main.js.map": "/frontend-mentor-summary/static/js/main.eb7b3dc6.chunk.js.map",
     "runtime-main.js": "/frontend-mentor-summary/static/js/runtime-main.01562235.js",
     "runtime-main.js.map": "/frontend-mentor-summary/static/js/runtime-main.01562235.js.map",
     "static/js/2.36563e30.chunk.js": "/frontend-mentor-summary/static/js/2.36563e30.chunk.js",
     "static/js/2.36563e30.chunk.js.map": "/frontend-mentor-summary/static/js/2.36563e30.chunk.js.map",
     "index.html": "/frontend-mentor-summary/index.html",
-    "static/css/main.f2a5dae1.chunk.css.map": "/frontend-mentor-summary/static/css/main.f2a5dae1.chunk.css.map",
+    "static/css/main.f2424083.chunk.css.map": "/frontend-mentor-summary/static/css/main.f2424083.chunk.css.map",
     "static/js/2.36563e30.chunk.js.LICENSE.txt": "/frontend-mentor-summary/static/js/2.36563e30.chunk.js.LICENSE.txt",
     "static/media/custom.scss": "/frontend-mentor-summary/static/media/RedHatDisplay-VariableFont_wght.b61d4966.ttf",
     "static/media/icon-music.f20c7787.svg": "/frontend-mentor-summary/static/media/icon-music.f20c7787.svg",
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.01562235.js",
     "static/js/2.36563e30.chunk.js",
-    "static/css/main.f2a5dae1.chunk.css",
-    "static/js/main.e169ed30.chunk.js"
+    "static/css/main.f2424083.chunk.css",
+    "static/js/main.eb7b3dc6.chunk.js"
   ]
 }
